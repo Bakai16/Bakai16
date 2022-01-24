@@ -5,12 +5,7 @@
 <h3 align="center">I'm a passionate Front-end Developer from Kyrgyzstan.</h3>
 
 
-<br/>
-<p align="center">
-    <a href="https://github.com/Bakai16/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bakai16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 
 
