@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="175px" style="border-radius: 49px;"></a>
-<style>
-  a { border-radius: 10px;} </style>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="175px"></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bakai</h1>
 <h3 align="center">I'm a passionate Front-end Developer from Kyrgyzstan.</h3>
 
