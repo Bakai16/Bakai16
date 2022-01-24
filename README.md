@@ -14,7 +14,7 @@
 ![git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
 
-
+<hr>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bakai16&show_icons=true&theme=radical" />
 
