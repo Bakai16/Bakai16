@@ -10,9 +10,12 @@
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass)
+![github](https://img.shields.io/badge/-wordpress-000?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VScode](https://img.shields.io/badge/-VScode-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
+
+
 
 <hr>
 
