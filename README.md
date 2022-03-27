@@ -14,6 +14,7 @@
 ![VScode](https://img.shields.io/badge/-VScode-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
+![github](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react&logoColor=#07d0f4)
 
 
 
