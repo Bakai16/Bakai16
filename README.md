@@ -38,7 +38,7 @@
 ### **Connect with me:**
 <p align="left">
 <a href = "https://www.linkedin.com/in/bakai-akylbekov-03358b227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/bakai_akylbekovv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/bakai_akylbek0v/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
