@@ -39,8 +39,8 @@
 
 ### **Connect with me:**
 <p align="left">
-<a target="_blank" href = "https://www.linkedin.com/in/bakai-akylbekov-03358b227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target="_blank" href = "https://www.instagram.com/bakai.akylbek0v/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/bakai-akylbekov-03358b227/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/bakai.akylbek0v/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
